@@ -22,7 +22,7 @@
   "stream-chat-react": "^13.5.1",
   "zustand": "^5.0.7",
   "vite": "^7.1.0",
-  "@vitejs/plugin-react": "^4.7.0"   ⬅️ (yaha shift kar do)
+  "@vitejs/plugin-react": "^4.7.0"   
 },
 "devDependencies": {
   "@eslint/js": "^9.32.0",
