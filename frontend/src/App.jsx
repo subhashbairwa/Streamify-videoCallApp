@@ -3,7 +3,7 @@ import "./index.css";
 import { Routes, Route, Navigate } from "react-router";
 import HomePage from "./pages/HomePage";
 import SignUpPage from "./pages/SignUpPage";
-import LoginPage from "./pages/LoginPage";
+import LoginPage from "./pages/Loginpage";
 import NotificationsPage from "./pages/NotificationsPage";
 import CallPage from "./pages/CallPage";
 import Friends from "./pages/Friends";
